@@ -1,5 +1,5 @@
 📊 Chayose Cafe Sales & Profit Analytics
-🔎 Project Overview
+ Project Overview
 
 This project analyzes 50,000+ sales transactions of Chayose Cafe to derive business insights related to revenue trends, product performance, profit margins, and seasonal demand patterns.
 
